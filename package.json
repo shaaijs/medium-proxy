@@ -1,0 +1,30 @@
+{
+  "name": "proxy-medium",
+  "version": "1.0.0",
+  "description": "A proxy for fetching the user feeds from Medium",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaaijs/medium-proxy.git"
+  },
+  "keywords": [
+    "medium",
+    "blog",
+    "proxy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaaijs/medium-proxy/issues"
+  },
+  "homepage": "https://github.com/shaaijs/medium-proxy#readme"
+}
